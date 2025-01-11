@@ -11,6 +11,22 @@ You've just been hired as a Data Scientist by the mysterious Squid Game organiza
 
 Before you can even complain on [r/DataScience](https://www.reddit.com/r/datascience/) about the gig, the Front Man puts a gun to your head and starts demanding answers to various business questions. You must write SQL queries to answer him – or else.![](src/Pasted%20image%2020250111220450.jpg)
 
+---
+
+[LEVEL 1](#LEVEL%201) 
+[LEVEL 2](#LEVEL%202) 
+[LEVEL 3](#LEVEL%203)
+[LEVEL 4](#LEVEL%204)
+[LEVEL 5](#LEVEL%205) 
+[LEVEL 6](#LEVEL%206) 
+
+
+
+
+
+
+---
+
 
 # LEVEL 1
 
